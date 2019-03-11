@@ -13,5 +13,6 @@
 	System.out.println("str=>"+str); // 콘솔에 출력(확인용)
 	out.println("<h1>"+str+"</h1>");
 %>
+<%=str%>
 </body>
 </html>
